@@ -55,9 +55,8 @@
 
 ***
 
-<a href="https://github.com/jingo0">
-  <img src="https://github-readme-stats.vercel.app/api?username=jingo0&show_icons=true&hide_border=true" />
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jingo0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
